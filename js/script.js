@@ -13,4 +13,4 @@ let color = prompt("Scrivi il tuo colore preferito")
 let password = 
 
 // Comunichiamo la password all'utente
-document.getElementById["mio_id"].innerHTML = `La password assegnata è: `
+document.getElementById("mio_id").innerHTML = `La password assegnata è: 21`
